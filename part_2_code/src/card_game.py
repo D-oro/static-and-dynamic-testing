@@ -30,4 +30,4 @@ class CardGame:
     total = 0
     for card in cards:
       total += card.value
-    return "You have a total of" + total8
+    return "You have a total of" + total
